@@ -48,8 +48,8 @@ github "repository",  "2.3.0"
 github "ruby",        "8.1.2"
 github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
-github "grails",      "2.2.3"
-github "groovy",      "1.8.0"
+github "mysql", "5.6.19"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
